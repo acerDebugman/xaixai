@@ -1,2 +1,3 @@
 # xaixai
-a memory db
+a memory db, fast and efficient
+
